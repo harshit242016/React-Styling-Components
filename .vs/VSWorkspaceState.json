@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\CourseGoals",
+    "\\src\\components\\CourseGoals\\CourseGoalList",
+    "\\src\\components\\CourseGoals\\CourseInput",
+    "\\src\\components\\UI",
+    "\\src\\components\\UI\\Button"
+  ],
+  "SelectedNode": "\\src\\components\\CourseGoals\\CourseInput\\CourseInput.js",
+  "PreviewInSolutionExplorer": false
+}
